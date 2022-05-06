@@ -1,4 +1,4 @@
-output "network_hub_account_number" {
-  description = "Network Hub account ID"
-  value       = local.network_hub_account_number
+output "account_number" {
+  description = "Account ID"
+  value       = local.account_number
 }
